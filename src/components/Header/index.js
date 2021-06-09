@@ -43,7 +43,7 @@ const Header = ({
                 pt-2.5 px-2.5
               "
             >
-              Page
+              Home
             </Link>
           </li>
 
@@ -53,7 +53,7 @@ const Header = ({
                 pt-2.5 px-2.5
               "
             >
-              Page
+              About
             </Link>
           </li>
 
@@ -63,7 +63,7 @@ const Header = ({
                 pt-2.5 px-2.5
               "
             >
-              Page
+              Contact
             </Link>
           </li>
         </ul>

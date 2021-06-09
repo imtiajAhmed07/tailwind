@@ -21,13 +21,13 @@ const Cards = ({
             <ul>
               <li className="list-none">
                 <span className="font-bold text-base">
-                  Title
+                  Sun Rise
               </span>
               </li>
 
               <li className="list-none">
                 <span className="text-base">
-                  Desc
+                  Lorem ipsum dolor sit amet.
               </span>
               </li>
             </ul>
@@ -50,13 +50,13 @@ const Cards = ({
             <ul>
               <li className="list-none">
                 <span className="font-bold text-base">
-                  Title
+                  Sun Set
               </span>
               </li>
 
               <li className="list-none">
                 <span className="text-base">
-                  Desc
+                  Lorem ipsum dolor sit amet.
               </span>
               </li>
             </ul>
@@ -79,13 +79,13 @@ const Cards = ({
             <ul>
               <li className="list-none">
                 <span className="font-bold text-base">
-                  Title
+                  Sun Rise
               </span>
               </li>
 
               <li className="list-none">
                 <span className="text-base">
-                  Desc
+                  Lorem ipsum dolor sit amet.
               </span>
               </li>
             </ul>
